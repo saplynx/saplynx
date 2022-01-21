@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saplynx
+- 👋 Hi, I’m Shantanu
 - 👀 I’m interested in Web and App development
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Android apps
